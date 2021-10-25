@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mathew Gauthier
+Mathew Gauthier
 
 <br>
 
@@ -10,6 +10,5 @@ layout: default
 
 
 <br>
-
-
+{life is important}
 
