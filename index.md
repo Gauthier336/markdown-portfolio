@@ -2,13 +2,14 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Mathew Gauthier
 
 <br>
 
-{% include 02-image.md %}
+![IMG-0888](https://user-images.githubusercontent.com/90914329/138618098-c0437c08-3325-4baf-8422-57f8f56a10e6.jpg)
+
 
 <br>
 
-{% include 03-links.md %}
+
 
